@@ -2,11 +2,11 @@
     {
         "name": "Sto Pistola 1",
         "samples": [
-            "http://diegotl.github.io/orangeboy/samples/abusadinho.png",
-            "http://diegotl.github.io/orangeboy/samples/aisim.png",
-            "http://diegotl.github.io/orangeboy/samples/ajuda.png",
-            "http://diegotl.github.io/orangeboy/samples/armado.png",
-            "http://diegotl.github.io/orangeboy/samples/atencao.png"
+            "https://diegotl.github.io/orangeboy/samples/abusadinho.png",
+            "https://diegotl.github.io/orangeboy/samples/aisim.png",
+            "https://diegotl.github.io/orangeboy/samples/ajuda.png",
+            "https://diegotl.github.io/orangeboy/samples/armado.png",
+            "https://diegotl.github.io/orangeboy/samples/atencao.png"
         ],
         "bundle": "http://diegotl.github.io/orangeboy/bundles/01.zip"
     }
