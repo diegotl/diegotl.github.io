@@ -9,7 +9,7 @@
             "https://diegotl.github.io/orangeboy/samples/armado.png",
             "https://diegotl.github.io/orangeboy/samples/atencao.png"
         ],
-        "bundle": "http://diegotl.github.io/orangeboy/bundles/01.zip"
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/01.zip"
     },
     {
         "name": "Xonado",
@@ -21,6 +21,6 @@
             "https://diegotl.github.io/orangeboy/samples/calaboca.png",
             "https://diegotl.github.io/orangeboy/samples/calaraboca.png"
         ],
-        "bundle": "http://diegotl.github.io/orangeboy/bundles/01.zip"
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/01.zip"
     }
 ]
