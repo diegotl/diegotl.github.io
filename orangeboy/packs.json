@@ -1,0 +1,44 @@
+[
+    {
+        "identifier": "OrangeBoy.Pack01",
+        "name": "Sto Xonado 1",
+        "count": 18,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/amovc2.png",
+            "https://diegotl.github.io/orangeboy/samples/oibebe.png",
+            "https://diegotl.github.io/orangeboy/samples/perdido.png",
+            "https://diegotl.github.io/orangeboy/samples/xonei2.png",
+            "https://diegotl.github.io/orangeboy/samples/xonei6.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/01.zip",
+        "premium": false
+    },
+    {
+        "identifier": "OrangeBoy.Pack02",
+        "name": "Sto Zuero",
+        "count": 20,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/arriscado.png",
+            "https://diegotl.github.io/orangeboy/samples/boasorte.png",
+            "https://diegotl.github.io/orangeboy/samples/curriculo.png",
+            "https://diegotl.github.io/orangeboy/samples/deal2.png",
+            "https://diegotl.github.io/orangeboy/samples/genio.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/02.zip",
+        "premium": false
+    },
+    {
+        "identifier": "OrangeBoy.Pack03",
+        "name": "Sto Xonado 2",
+        "count": 20,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/arriscado.png",
+            "https://diegotl.github.io/orangeboy/samples/boasorte.png",
+            "https://diegotl.github.io/orangeboy/samples/curriculo.png",
+            "https://diegotl.github.io/orangeboy/samples/deal2.png",
+            "https://diegotl.github.io/orangeboy/samples/genio.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/03.zip",
+        "premium": true
+    }
+]

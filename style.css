@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 400;
+  src: url("https://sf.abarba.me/SFMono-Regular.otf");
+}
+
+#title {
+    color: #A6B2C0;
+    text-align: left;
+    font-family: "SF Mono";
+}
