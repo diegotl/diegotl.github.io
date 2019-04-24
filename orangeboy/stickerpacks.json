@@ -22,5 +22,17 @@
             "https://diegotl.github.io/orangeboy/samples/genio.png"
         ],
         "bundle": "https://diegotl.github.io/orangeboy/bundles/02.zip"
+    },
+    {
+        "name": "Mano",
+        "count": 22,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/atencao.png",
+            "https://diegotl.github.io/orangeboy/samples/deboa.png",
+            "https://diegotl.github.io/orangeboy/samples/enois.png",
+            "https://diegotl.github.io/orangeboy/samples/minapira.png",
+            "https://diegotl.github.io/orangeboy/samples/rico.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/04.zip"
     }
 ]
