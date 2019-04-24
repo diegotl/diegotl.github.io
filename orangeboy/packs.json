@@ -30,13 +30,13 @@
     {
         "identifier": "OrangeBoy.Pack03",
         "name": "Sto Xonado 2",
-        "count": 20,
+        "count": 13,
         "samples": [
-            "https://diegotl.github.io/orangeboy/samples/arriscado.png",
-            "https://diegotl.github.io/orangeboy/samples/boasorte.png",
-            "https://diegotl.github.io/orangeboy/samples/curriculo.png",
-            "https://diegotl.github.io/orangeboy/samples/deal2.png",
-            "https://diegotl.github.io/orangeboy/samples/genio.png"
+            "https://diegotl.github.io/orangeboy/samples/metade.png",
+            "https://diegotl.github.io/orangeboy/samples/amordasuavida.png",
+            "https://diegotl.github.io/orangeboy/samples/teamo2.png",
+            "https://diegotl.github.io/orangeboy/samples/amor1.png",
+            "https://diegotl.github.io/orangeboy/samples/soquerovc.png"
         ],
         "bundle": "https://diegotl.github.io/orangeboy/bundles/03.zip",
         "premium": true
