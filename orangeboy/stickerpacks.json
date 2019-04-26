@@ -34,5 +34,17 @@
             "https://diegotl.github.io/orangeboy/samples/rico.png"
         ],
         "bundle": "https://diegotl.github.io/orangeboy/bundles/04.zip"
+    },
+    {
+        "name": "Sto Pistola",
+        "count": 20,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/calaboca.png",
+            "https://diegotl.github.io/orangeboy/samples/enfiar.png",
+            "https://diegotl.github.io/orangeboy/samples/chute.png",
+            "https://diegotl.github.io/orangeboy/samples/bomdiaocaralho.png",
+            "https://diegotl.github.io/orangeboy/samples/vemtranquilo.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/05.zip"
     }
 ]
