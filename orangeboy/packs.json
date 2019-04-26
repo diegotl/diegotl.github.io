@@ -68,5 +68,19 @@
         ],
         "bundle": "https://diegotl.github.io/orangeboy/bundles/05.zip",
         "premium": false
+    },
+    {
+        "identifier": "OrangeBoy.Pack06",
+        "name": "Mexicano",
+        "count": 6,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/ajuda.png",
+            "https://diegotl.github.io/orangeboy/samples/dios.png",
+            "https://diegotl.github.io/orangeboy/samples/perguntei.png",
+            "https://diegotl.github.io/orangeboy/samples/pistolito.png",
+            "https://diegotl.github.io/orangeboy/samples/fodase.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/06.zip",
+        "premium": false
     }
 ]
