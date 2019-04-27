@@ -96,19 +96,5 @@
         ],
         "bundle": "https://diegotl.github.io/orangeboy/bundles/07.zip",
         "premium": false
-    },
-    {
-        "identifier": "OrangeBoy.Pack08",
-        "name": "Sto Pistola 3",
-        "count": 24,
-        "samples": [
-            "https://diegotl.github.io/orangeboy/samples/chinela1.png",
-            "https://diegotl.github.io/orangeboy/samples/explodir.png",
-            "https://diegotl.github.io/orangeboy/samples/palhacada.png",
-            "https://diegotl.github.io/orangeboy/samples/vaitarde.png",
-            "https://diegotl.github.io/orangeboy/samples/vingar.png"
-        ],
-        "bundle": "https://diegotl.github.io/orangeboy/bundles/08.zip",
-        "premium": true
     }
 ]
