@@ -58,5 +58,17 @@
             "https://diegotl.github.io/orangeboy/samples/nopuedo.png"
         ],
         "bundle": "https://diegotl.github.io/orangeboy/bundles/06.zip"
-    }
+    },
+    {
+        "name": "Sto Pistola 2",
+        "count": 24,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/deixaquieto.png",
+            "https://diegotl.github.io/orangeboy/samples/oquefalou.png",
+            "https://diegotl.github.io/orangeboy/samples/tiroudoserio.png",
+            "https://diegotl.github.io/orangeboy/samples/cabra.png",
+            "https://diegotl.github.io/orangeboy/samples/brother.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/07.zip",
+    },
 ]

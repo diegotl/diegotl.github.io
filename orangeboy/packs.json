@@ -57,7 +57,7 @@
     },
     {
         "identifier": "OrangeBoy.Pack05",
-        "name": "Sto Pistola",
+        "name": "Sto Pistola 1",
         "count": 20,
         "samples": [
             "https://diegotl.github.io/orangeboy/samples/calaboca.png",
@@ -82,5 +82,33 @@
         ],
         "bundle": "https://diegotl.github.io/orangeboy/bundles/06.zip",
         "premium": false
+    },
+    {
+        "identifier": "OrangeBoy.Pack07",
+        "name": "Sto Pistola 2",
+        "count": 24,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/deixaquieto.png",
+            "https://diegotl.github.io/orangeboy/samples/oquefalou.png",
+            "https://diegotl.github.io/orangeboy/samples/tiroudoserio.png",
+            "https://diegotl.github.io/orangeboy/samples/cabra.png",
+            "https://diegotl.github.io/orangeboy/samples/brother.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/07.zip",
+        "premium": false
+    },
+    {
+        "identifier": "OrangeBoy.Pack08",
+        "name": "Sto Pistola 3",
+        "count": 24,
+        "samples": [
+            "https://diegotl.github.io/orangeboy/samples/chinela1.png",
+            "https://diegotl.github.io/orangeboy/samples/explodir.png",
+            "https://diegotl.github.io/orangeboy/samples/palhacada.png",
+            "https://diegotl.github.io/orangeboy/samples/vaitarde.png",
+            "https://diegotl.github.io/orangeboy/samples/vingar.png"
+        ],
+        "bundle": "https://diegotl.github.io/orangeboy/bundles/08.zip",
+        "premium": true
     }
 ]
