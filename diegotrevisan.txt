@@ -1,0 +1,6 @@
+<span id="a">diego@trevisan</span>:<span id="b">~</span><span id="c">$</span> cat diegotrevisan.txt<br/><br/>
+Hi, I'm Diego Trevisan.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Lalala lalala lalala lalala lalala <a href="https://www.google.com">link</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>Lalala lalala <a href="http://www.google.com">link</a> lalala.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>Lalala lalala.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+Lalala lalala<!-- slightdelayhere-->, lalala lalala.<!-- longlongcomment --> My email address is: <a href="mailto:diego@trevisa.nl">diego@trevisa.nl</a> and my Twitter is: <a href="http://twitter.com/diegotrevisan90">@diegotrevisan90</a>.
+<p>Lalala lalala <a href="http://www.google.com">link</a>.</p>
