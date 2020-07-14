@@ -1,6 +1,0 @@
-<span id="a">diego@trevisan</span>:<span id="b">~</span><span id="c">$</span> cat diegotrevisan.txt<br/><br/>
-Hello, my name is Diego Trevisan Lara.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm an <s>iPhone OS</s> iOS Developer since early 2011. I'm passionate about turning ideas into software and making people's lives better/easier with an app.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
-<p>I'm the creator of <a href="https://apps.apple.com/br/app/pacotevicio/id1032605045">PacoteVício</a> app and I have a few other side projects.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
-<p>Originally from Brazil, jetzt lebe ich in München, Deutschland. If you want to check my work background, please take a look at my <a href="files/cv-en.pdf">Curriculum Vitae</a>.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
-My GitHub is <a href="https://github.com/diegotl">@diegotl</a>. You can find me on <a href="https://www.linkedin.com/in/diegotrevisanlara/">LinkedIn</a>.<!-- slightdelayhere--> I'm on <a href="https://www.instagram.com/diegotrevisan/">Instagram</a> too :).<!-- longlongcomment --> And my email address is: diego [at] trevisa.nl.
-<p>See you around!</p>
